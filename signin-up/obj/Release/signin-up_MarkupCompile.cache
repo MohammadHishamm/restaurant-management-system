@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Release\
 signin_up
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\App.xaml
 1219584333
 
-6-793535042
+51579654133
 13-38814620
 MainWindow.xaml;
 
-False
+True
 
