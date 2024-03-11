@@ -94,5 +94,23 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="linkedin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="google.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Email.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
