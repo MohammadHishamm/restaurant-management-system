@@ -1,0 +1,16 @@
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\bin\Debug\signin-up.exe.config
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\bin\Debug\signin-up.exe
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\bin\Debug\signin-up.pdb
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.csproj.AssemblyReference.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\MainWindow.g.cs
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\App.g.cs
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up_MarkupCompile.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up_MarkupCompile.lref
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\App.baml
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\MainWindow.baml
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.g.resources
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin_up.Properties.Resources.resources
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.csproj.GenerateResource.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.exe
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\signin-up\obj\Debug\signin-up.pdb
