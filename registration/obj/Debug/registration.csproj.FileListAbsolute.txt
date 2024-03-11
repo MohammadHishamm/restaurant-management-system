@@ -1,0 +1,16 @@
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\bin\Debug\registration.exe.config
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\bin\Debug\registration.exe
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\bin\Debug\registration.pdb
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.csproj.AssemblyReference.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\MainWindow.g.cs
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\App.g.cs
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration_MarkupCompile.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration_MarkupCompile.lref
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\App.baml
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\MainWindow.baml
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.g.resources
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.Properties.Resources.resources
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.csproj.GenerateResource.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.exe
+C:\Users\Mohammad\Source\Repos\restaurant-management-system\registration\obj\Debug\registration.pdb

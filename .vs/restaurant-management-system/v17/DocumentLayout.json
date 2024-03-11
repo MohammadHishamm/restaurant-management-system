@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|c:\\users\\mohammad\\source\\repos\\restaurant-management-system\\signin-up\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|solutionrelative:signin-up\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{729C88E1-352B-4EAB-B99B-38AC8B2E7E63}|registration\\registration.csproj|c:\\users\\mohammad\\source\\repos\\restaurant-management-system\\registration\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{729C88E1-352B-4EAB-B99B-38AC8B2E7E63}|registration\\registration.csproj|solutionrelative:registration\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|solutionrelative:signin-up\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|c:\\users\\mohammad\\source\\repos\\restaurant-management-system\\signin-up\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6C686FE-0F16-4E69-B720-26B648FD3312}|signin-up\\signin-up.csproj|solutionrelative:signin-up\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{729C88E1-352B-4EAB-B99B-38AC8B2E7E63}|registration\\registration.csproj|c:\\users\\mohammad\\source\\repos\\restaurant-management-system\\registration\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C88E1-352B-4EAB-B99B-38AC8B2E7E63}|registration\\registration.csproj|solutionrelative:registration\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "signin-up\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\MainWindow.xaml.cs",
-              "RelativeToolTip": "signin-up\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:29:31.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\App.xaml",
-              "RelativeDocumentMoniker": "signin-up\\App.xaml",
-              "ToolTip": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\App.xaml",
-              "RelativeToolTip": "signin-up\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T17:23:31.242Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\registration\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "registration\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\registration\\MainWindow.xaml.cs",
+              "RelativeToolTip": "registration\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEIAAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:31:39.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "signin-up\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\signin-up\\MainWindow.xaml",
-              "RelativeToolTip": "signin-up\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\registration\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "registration\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\Repos\\restaurant-management-system\\registration\\MainWindow.xaml",
+              "RelativeToolTip": "registration\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T17:12:02.215Z",
+              "WhenOpened": "2024-03-11T18:10:42.528Z",
               "EditorCaption": ""
             }
           ]
