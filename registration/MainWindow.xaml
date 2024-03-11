@@ -38,7 +38,7 @@
 
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Register with us" Style="{StaticResource TitleText}" />
-                    <TextBlock Text="Fill your personal info and create new account to connect us" Opacity="0.8" Margin="20 30 20 30" Style="{StaticResource NormalText}" />
+                    <TextBlock Text="Fill your personal info and create an account to connect with us" Opacity="0.8" Margin="20 30 20 30" Style="{StaticResource NormalText}" />
                     <Button Content="Back to sign in" Style="{StaticResource button}" />
                 </StackPanel>
             </Grid>
